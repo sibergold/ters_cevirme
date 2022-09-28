@@ -1,0 +1,15 @@
+C:\Users\OSMAN\ters_cevirme\bin\Debug\net6.0\ters_cevirme.exe
+C:\Users\OSMAN\ters_cevirme\bin\Debug\net6.0\ters_cevirme.deps.json
+C:\Users\OSMAN\ters_cevirme\bin\Debug\net6.0\ters_cevirme.runtimeconfig.json
+C:\Users\OSMAN\ters_cevirme\bin\Debug\net6.0\ters_cevirme.dll
+C:\Users\OSMAN\ters_cevirme\bin\Debug\net6.0\ters_cevirme.pdb
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.csproj.AssemblyReference.cache
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.AssemblyInfoInputs.cache
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.AssemblyInfo.cs
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.dll
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\refint\ters_cevirme.dll
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.pdb
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ters_cevirme.genruntimeconfig.cache
+C:\Users\OSMAN\ters_cevirme\obj\Debug\net6.0\ref\ters_cevirme.dll
